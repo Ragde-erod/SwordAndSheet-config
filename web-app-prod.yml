@@ -2,10 +2,8 @@ build:
   version: "1.0"
 
 web-app:
-  message: "Welcome to healthcare web app related prod APIs "
+  message: "Welcome to SwordAndSheet web app related prod APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@healthcare.com"
-  onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+    name: "Edgar DORE"
+    email: "edgar.dore.pro@gmail.com"
+

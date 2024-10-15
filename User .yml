@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+web-app:
+  message: "Welcome to SwordAndSheet web app related prod APIs "
+  contactDetails:
+    name: "Edgar DORE"
+    email: "edgar.dore.pro@gmail.com"
